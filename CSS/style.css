@@ -14,6 +14,7 @@ body {
 h1,h2,h3 {
 	font-family: 'Roboto',sans-serif;
 	font-weight: bold;
+	font-size: 30px;
 }
 .avatar + .btn-blue {
     margin-left: 15px;
